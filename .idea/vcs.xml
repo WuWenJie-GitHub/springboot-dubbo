@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/springboot-dubbo-api-member-service-impl" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/springboot-dubbo-order-web" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/springboot-dubbo-public-api-service" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/springboot-dubbo-public-api-service/springboot-dubbo-public-api-member-service" vcs="svn" />
+  </component>
+</project>
